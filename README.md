@@ -3,10 +3,12 @@ Project Overview
 This project focuses on detecting and classifying yoga poses using a deep learning model. It utilizes image datasets for training, validation, and testing to identify poses such as Tree Pose, Warrior Pose, Cobra Pose, and more. This model can be extended to suggest pose corrections, assisting practitioners in improving their yoga posture.
 
 Features
+
 Pose Detection: Identify yoga poses from input images using a deep learning model.
 Pose Correction (Future Scope): Provide feedback to improve posture alignment.
 
 Dataset
+
 The dataset contains images of six yoga poses:
 
 Chair Pose
@@ -15,13 +17,16 @@ Downward Dog Pose
 Goddess Pose
 Tree Pose
 Warrior Pose
+
 The dataset is split into:
 
 train/: Training images
 valid/: Validation images
 test/: Testing images
 
+
 Installation Instructions
+
 Clone the Repository
 
 bash
